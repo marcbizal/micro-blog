@@ -1,0 +1,1 @@
+module.exports = [{"url":"/about","author":"Marcus"},{"url":"/index","author":"Marcus"},{"url":"/more/deeper/inception","name":"Stupid"},{"url":"/more/other"},{"url":"/more/something"}]

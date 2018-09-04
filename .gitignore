@@ -1,0 +1,9 @@
+# macOS files
+.DS_Store
+
+# temp files
+.next
+.vscode
+
+# packages
+node_modules
